@@ -1,1 +1,0 @@
-COMPO = ["tech","notech"]
